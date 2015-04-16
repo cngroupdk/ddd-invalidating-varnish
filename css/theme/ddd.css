@@ -65,3 +65,11 @@ footer .session__title, footer .session__presenter {
   display: inline-block; 
 }
 
+.reveal code {
+  font-size: 150%;
+  line-height: 130%;
+}
+
+.reveal section img {
+  border: none;
+}
